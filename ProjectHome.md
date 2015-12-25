@@ -1,0 +1,1 @@
+The AmazonSES plugin for the PHPmailer
